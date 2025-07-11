@@ -42,17 +42,13 @@ tomato/
 │   └── main.jsx
 ├── package.json
 └── vite.config.js
-📸 Screenshots
-Home Page	Item Details	Cart Page
-
-Replace these image paths with your actual screenshots in the screenshots/ directory.
 
 📦 Installation
 bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/yourusername/tomato.git
+git clone https://github.com/piyushsingh1234567/tomato.git
 
 # Navigate to the project folder
 cd tomato
