@@ -1,6 +1,5 @@
 🍅 Tomato – Food Ordering Web App
 Tomato is a modern, responsive frontend food ordering platform built using React.js. Developed during the IBM PBEL Virtual Internship, the application allows users to browse menus, explore cuisines, search food items, and add them to a cart for checkout — simulating a real-world online food delivery experience.
-
 🚀 Features
 🏠 Home page with food categories and trending items.
 
